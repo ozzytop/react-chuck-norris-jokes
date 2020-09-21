@@ -2,6 +2,7 @@
 
 App to show how to retrieve information with a React hook and 
 
+Api used: https://api.chucknorris.io/
 
 ### Installation
 
